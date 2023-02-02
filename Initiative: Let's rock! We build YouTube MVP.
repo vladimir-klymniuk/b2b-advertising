@@ -1,0 +1,59 @@
+Initiative: Let's rock! We build YouTube MVP.
+
+Epics:
+YouTube: User management
+- user creates account
+- user verfies account
+- user configures account
+- user removes account
+
+YouTube: Content management
+- user uploads video
+- user configures video
+- user removes video
+
+YouTube: Video Player
+- user can play video
+- user can stop/resume video
+- user can restart video
+- user can resize video
+- user can change video quality
+- user can resume video on next visit
+- user can change video speed
+- user can select subtitles
+
+YouTube: Search
+- user can search for videos by gramma rule
+- user can search for videos by tag
+- user can search for videos by cattegory
+- user can search in favorites
+- user can sort result by date, name
+- user can sort result by likes
+- user can sort result by views
+
+YouTube: Social
+- user can like video
+- user can share video link
+- user can subscribe on user
+
+YouTube: Users content persanalisation
+- user notifications
+- user see recomendations to watch
+- user see can see sudgestions on search
+- user can see video stats
+
+YouTube: Live Video
+- user can start live stream
+- users can search for active streams
+- users can like, share, stream video
+- user can configure stream
+- user can see stream stats
+- users can see stream stats
+
+YouTube: Tracking
+- track users likes
+- track video views
+- track video watchers
+- track users search requests
+- track users share actions
+- track video pause before on user leave action
